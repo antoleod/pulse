@@ -1,0 +1,22 @@
+{
+  "bounty": "Scottcjn/rustchain-bounties#315",
+  "contributor": "antoleod",
+  "zip_sha256": "7b9868505c9614fb3e43566db9db847bcee262f2cb816744ab9d3f2660b87460",
+  "files": [
+    {"path":"ASSET_PACK.md","bytes":7875,"sha256":"4ad799ea174f8ea6f1e0d9e696d416643f74761b30e56c16f12deb319563db99"},
+    {"path":"RIGHTS.txt","bytes":439,"sha256":"b50ffde12b0dadfed18d22adf1ac45cd10dd442865e4cf209c46157a2b3092f2"},
+    {"path":"memes/meme_01_age_is_a_feature.png","bytes":37067,"sha256":"e98088fb0156b4e01e6a2607223d2691c4b0f20a2fc6e159d62868bf281a61ec"},
+    {"path":"memes/meme_02_closet_comeback.png","bytes":40273,"sha256":"45828957b0a468e2a1ba6f6d94f1ac518eb63ac6a5ff2728a0ea2d56539b768c"},
+    {"path":"memes/meme_03_newer_isnt_everything.png","bytes":44791,"sha256":"87b7b0605c96d326ffdd1b92ab6b4cc883ab677cef0996cb63f5313111670acd"},
+    {"path":"memes/meme_04_before_after.png","bytes":33991,"sha256":"ba9195c95548b4a319c46567cd50f6128c679d78cc272b354ce489fbfc2fcb69"},
+    {"path":"memes/meme_05_beige_rebellion.png","bytes":37113,"sha256":"a16ad0696cbd3ac7831799b2526caf0e590f2ba0a835247ba1a43cb53a8cff58"},
+    {"path":"shorts/short_01_age_is_a_feature.mp4","bytes":115754,"sha256":"665750ff814561af97e959577a7ed86c4b4b20cb25a8621b79b8940d9ee24b3e"},
+    {"path":"shorts/short_02_before_you_recycle.mp4","bytes":110678,"sha256":"0bfd1f47239634d956f89d5ba425543b7c403e0ee5e5858f5d88997e1ffb0ef2"},
+    {"path":"shorts/short_03_the_beige_rebellion.mp4","bytes":107434,"sha256":"dbb8aa09fb0a3698d3caf1fd6dc149de40713fa3198da593159b590de4a6f0c8"}
+  ],
+  "video_probe": {
+    "short_01_age_is_a_feature.mp4":{"codec":"h264","width":720,"height":1280,"pix_fmt":"yuv420p","duration_seconds":13.4},
+    "short_02_before_you_recycle.mp4":{"codec":"h264","width":720,"height":1280,"pix_fmt":"yuv420p","duration_seconds":14.8},
+    "short_03_the_beige_rebellion.mp4":{"codec":"h264","width":720,"height":1280,"pix_fmt":"yuv420p","duration_seconds":15.0}
+  }
+}
